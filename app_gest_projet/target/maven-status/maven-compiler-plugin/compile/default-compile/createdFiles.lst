@@ -1,0 +1,12 @@
+ma\projet\classes\EmployeTache.class
+ma\projet\util\HibernateUtil.class
+com\example\Main.class
+ma\projet\classes\Employe.class
+ma\projet\services\ProjetService.class
+ma\projet\classes\Projet.class
+ma\projet\test\Test.class
+ma\projet\services\TacheService.class
+ma\projet\dao\IDao.class
+ma\projet\services\EmployeTacheService.class
+ma\projet\services\EmployeService.class
+ma\projet\classes\Tache.class
